@@ -1,4 +1,5 @@
-# Python Learning Challenges
+# Projeto: Learning Pyhton With Gemini (IA)
+##### Projeto 100% idealizado pelo Google Gemini
 
 ---
 
