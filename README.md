@@ -15,7 +15,7 @@ O objetivo não é somente praticar códigos em python, mas também avaliar a ca
 
 Aqui você encontrará a lista de desafios gerados pelo Google Gemini:
 
-**DONE
+**DONE**
 1.  **Calculadora Simples:** Programa básico para operações aritméticas.
 2.  **Verificador de Número Par/Ímpar:** Determina se um número é par ou ímpar.
 3.  **Conversor de Temperatura:** Converte entre Celsius e Fahrenheit.
