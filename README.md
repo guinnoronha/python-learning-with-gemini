@@ -5,19 +5,22 @@
 
 ## 🚀 Sobre o Projeto
 
-Este repositório é um **diário da minha jornada de aprendizado em Python**, focado em **desenvolvimento prático através de desafios de programação**. A maioria desses desafios foi **sugerida por inteligência artificial**, o que me permitiu explorar uma ampla gama de tópicos e aperfeiçoar minhas habilidades de resolução de problemas de forma contínua e diversificada.
+Este repositório é um **projeto de aprendizado em Python**, focado em **desenvolvimento prático através de desafios de programação**. 100% desses desafios foram **sugeridos por inteligência artificial**, no caso Google Gemini, o que me permitiu explorar uma ampla gama de tópicos e avaliar como uma IA pode sugerir um roteiro de desafios para estudos.
 
-O objetivo é simples: consolidar o conhecimento teórico com a prática real, enfrentando problemas que variam de dificuldades básicas a avançadas.
+O objetivo não é somente praticar códigos em python, mas também avaliar a capacidade de uma IA em elaborar uma espécie de roteiro de estudos.
 
 ---
 
 ## 🎯 Desafios Inclusos
 
-Aqui você encontrará a resolução para os seguintes desafios (e outros que podem ser adicionados futuramente!):
+Aqui você encontrará a lista de desafios gerados pelo Google Gemini:
 
+**DONE
 1.  **Calculadora Simples:** Programa básico para operações aritméticas.
 2.  **Verificador de Número Par/Ímpar:** Determina se um número é par ou ímpar.
 3.  **Conversor de Temperatura:** Converte entre Celsius e Fahrenheit.
+
+**WIP**
 4.  **Lista de Tarefas (To-Do List):** Uma aplicação simples para gerenciar tarefas.
 5.  **Contador de Vogais:** Conta o número de vogais em uma string.
 6.  **Jogo de Adivinhação de Número:** Um jogo interativo para adivinhar um número secreto.
@@ -30,7 +33,8 @@ Aqui você encontrará a resolução para os seguintes desafios (e outros que po
 
 ## 🛠️ Tecnologias Utilizadas
 
-* **Python 3.x**
+* **Python**
+* **Google Colab (.inpy)**
 
 ---
 
@@ -58,24 +62,8 @@ Para executar qualquer um dos projetos neste repositório, siga estes passos:
 
 ---
 
-## 🤝 Contribuição
+## Desenvolvido por:
 
-Este é um projeto pessoal de aprendizado, mas sinta-se à vontade para:
-
-* Sugerir melhorias nos códigos existentes.
-* Reportar bugs.
-* Propor novos desafios!
-
----
-
-## 📜 Licença
-
-Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
-## Conecte-se!
-
-Se você tiver alguma dúvida ou quiser bater um papo sobre Python, sinta-se à vontade para entrar em contato!
+**Guilherme Noronha Mello - github.com/guinnoronha**
 
 ---
