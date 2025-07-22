@@ -15,19 +15,16 @@ O objetivo não é somente praticar códigos em python, mas também avaliar a ca
 
 Aqui você encontrará a lista de desafios gerados pelo Google Gemini:
 
-**DONE**
-1.  **Calculadora Simples:** Programa básico para operações aritméticas.
-2.  **Verificador de Número Par/Ímpar:** Determina se um número é par ou ímpar.
-3.  **Conversor de Temperatura:** Converte entre Celsius e Fahrenheit.
-
-**WIP**
-4.  **Lista de Tarefas (To-Do List):** Uma aplicação simples para gerenciar tarefas.
-5.  **Contador de Vogais:** Conta o número de vogais em uma string.
-6.  **Jogo de Adivinhação de Número:** Um jogo interativo para adivinhar um número secreto.
-7.  **Gerador de Senhas:** Cria senhas aleatórias com base em critérios definidos pelo usuário.
-8.  **Organizador de Arquivos:** Script para organizar arquivos em diretórios com base em suas extensões.
-9.  **Calculadora de Juros Compostos:** Calcula o crescimento de investimentos com juros compostos.
-10. **Simulador de Jogo de Dados:** Simula o lançamento de dados.
+1.  **Calculadora Simples:** Programa básico para operações aritméticas.                                         **(DONE)**
+2.  **Verificador de Número Par/Ímpar:** Determina se um número é par ou ímpar.                                  **(DONE)**
+3.  **Conversor de Temperatura:** Converte entre Celsius e Fahrenheit.                                           **(DONE)**
+4.  **Lista de Tarefas (To-Do List):** Uma aplicação simples para gerenciar tarefas.                             **(WIP)**
+5.  **Contador de Vogais:** Conta o número de vogais em uma string.                                              **(WIP)**
+6.  **Jogo de Adivinhação de Número:** Um jogo interativo para adivinhar um número secreto.                      **(WIP)**
+7.  **Gerador de Senhas:** Cria senhas aleatórias com base em critérios definidos pelo usuário.                  **(WIP)**
+8.  **Organizador de Arquivos:** Script para organizar arquivos em diretórios com base em suas extensões.        **(WIP)**
+9.  **Calculadora de Juros Compostos:** Calcula o crescimento de investimentos com juros compostos.              **(WIP)**
+10. **Simulador de Jogo de Dados:** Simula o lançamento de dados.                                                **(WIP)**
 
 ---
 
